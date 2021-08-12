@@ -1,0 +1,5 @@
+writeFileSync result: first text file, second text file
+writeFileSync result: first text file, second text file
+writeFileSync result: first text file, second text file
+hello
+writeFileSync result: first text file, second text file
